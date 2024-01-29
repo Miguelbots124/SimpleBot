@@ -34,7 +34,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ```bash
-> git clone https://github.com/BrunoSobrino/SimpleBot
+> git clone https://github.com/Miguelbots124/SimpleBot
 > cd SimpleBot
 > npm install
 > yarn install
