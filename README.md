@@ -23,10 +23,17 @@
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/SimpleBot/blob/master/config.js)
 
 ### `🛡️ ACTIVAR EN TERMUX 🛡️`
-```bash
+
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
 > termux-setup-storage
+```
+
+```bash
 > apt update && apt upgrade && apt install yarn && apt install git -y && apt install nodejs -y && apt install ffmpeg -y && apt install imagemagick -y
+```
+
+```bash
 > git clone https://github.com/BrunoSobrino/SimpleBot
 > cd SimpleBot
 > npm install
@@ -42,6 +49,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
+```ba
 ### `🔥 OBTENER OTRO CODIGO QR🔥`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
