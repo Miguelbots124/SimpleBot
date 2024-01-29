@@ -26,19 +26,19 @@
 
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-> termux-setup-storage
+termux-setup-storage
 ```
 
 ```bash
-> apt update && apt upgrade && apt install yarn && apt install git -y && apt install nodejs -y && apt install ffmpeg -y && apt install imagemagick -y
+apt update && apt upgrade && apt install yarn && apt install git -y && apt install nodejs -y && apt install ffmpeg -y && apt install imagemagick -y
 ```
 
 ```bash
-> git clone https://github.com/Miguelbots124/SimpleBot
-> cd SimpleBot
-> npm install
-> yarn install
-> npm start
+git clone https://github.com/Miguelbots124/SimpleBot
+cd SimpleBot
+npm install
+yarn install
+npm start
 ```
 
 ### `🟢 ACTIVAR EN CASO DE DETENERSE 🟢`
